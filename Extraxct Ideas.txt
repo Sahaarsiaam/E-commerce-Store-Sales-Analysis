@@ -1,0 +1,34 @@
+ Business Performance Overviews : 
+A holistic review of the store's annual data reveals deep structural challenges across product lines, pricing, and temporal performance. While the store generates strong total revenue, net profitability is severely restricted by tight margins, unprofitable high-volume products, and extreme seasonal instability.The Product Paradox (Volume vs. Value): While high-performing categories like Printers ($+\$8,606$) and Bookcases ($+\$6,516$) drive the business forward, a severe margin drain occurs in high-volume, negative-profit lines. Most notably, Furnishings and Electronic Games outpaced top-selling items in unit quantity sold but combined for an overall net loss of $-\$1,450$.Severe Margin Compression: Across the board, high gross revenue fails to yield proportionate net gains. The store's premier driver, Printers, brought in an impressive $\$59,252$ in revenue but retained a mere $14.5\%$ profit margin ($Reserving\ \approx\$50,600\ for\ costs$). This proves that even our "best" categories are heavily weighed down by high supplier costs or excessive promotional discounting.Extreme Monthly Volatility: Financially, the store lives in a state of unpredictability. The first half of the year experiences continuous margin erosion, descending into a steep deficit of $-\$3,730$ in May. Profits fluctuate wildly through the summer until an enormous, holiday-driven Q4 surge in November delivers a record-breaking profit of $\$10,253$.Core Strategic Mandate: The business suffers from a high vulnerability to off-peak months and a dangerous reliance on a single year-end sales spike. To stabilize cash flow, the store owner must urgently overhaul product cost structures, adjust base pricing formulas, and scale back aggressive markdowns on high-volume items that are currently running at a loss.
+
+
+Case :Maharashtra State : 
+
+When we look at cities in Maharashtra, like Pune and Mumbai, we see that customer habits are different from the rest of the store. In this region, Clothing is the top money-maker. Furniture comes in second place. Surprisingly, Electronics is at the very bottom and makes the lowest profit. Even though electronics usually bring in a lot of sales elsewhere, they do not make much profit here.
+
+Advice for the owner: The store owner should change what they sell in Maharashtra. They should spend more money on advertising and stocking Clothes and Furniture in this area, rather than Electronics.
+Case Pune city :
+
+Clothing Performance in Pune City
+1/gap between sales revenue and actual profit:
+When we look closely at Pune, we see a very big gap between sales revenue and actual profit for the Clothing category. The total sales amount is 8 times larger than the net profit, which means costs are very high.
+
+Looking at specific items, Saree and Trousers are the top sellers. These are followed by Hankerchief, Stole, T-shirt, Skirt, and finally Shirt. However, some items are not doing well. Skirts and Shirts bring in very little profit, while Leggings and Kurtis are making a negative profit (losing money).
+
+Advice for the owner: The store owner needs to check the prices for Clothes in Pune. Since sales are high but profit is low, they should increase prices or lower costs, especially for loss-making items like Leggings and Kurtis.
+
+2/Summer Performance Problems (June to September)
+
+The months from June to September show that the store has a hard time making steady money during the summer.
+Advice for the owner: The store owner needs to look at why summer sales are so weak. They should consider running special summer promotions or reducing business costs during these four months to stop the losses.
+
+
+Electronics Performance in Pune City : 
+In the Electronics category, we see another very big gap between total sales and actual earnings. The total sales amount reached $\$46,581$, but the net profit was only $\$1,168$. This means almost all the money goes into paying for product costs.Looking at individual products, Printers brought in the highest profit, but there is still a massive gap between its sales revenue and its actual returns. On the negative side, Phones made a loss (negative profit) even though they achieved a high sales amount of $\$6,890$. Electronic Games are also a major problem;
+2/Summer Performance Problems (June to September)
+ they lost money consecutively from May to September and suffered another drop in December. 
+The owner needs to immediately review the pricing structure for Electronics. Since items like Phones and Electronic Games are losing money so frequently, the store should increase their prices or renegotiate with suppliers to cut down costs.
+
+Fourniture : 
+Just like the other categories, Furniture has a very big gap between total sales revenue and final profit. The category brought in a total sales amount of $26124,181, but only kept $2416$ as net profit. This shows that the store is spending too much on buying and delivering these large items.Within this category, Furnishings are a major problem because they are operating at a negative profit (losing money). Even though customers are buying them, they ended up losing $-200s overall.Advice for the owner: The store owner needs to look closely at the prices for all furniture. They must increase the price of Furnishings or find a cheaper way to ship and source them so they stop losing money.
+
